@@ -1,0 +1,10 @@
+{
+    "name": "string.prototype.repeat",
+    "description": "A robust & optimized `String.prototype.repeat` polyfill, based on the ECMAScript 6 specification.",
+    "repos": "https://github.com/mathiasbynens/String.prototype.repeat.git",
+    "main": "repeat.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.2.0"
+}
